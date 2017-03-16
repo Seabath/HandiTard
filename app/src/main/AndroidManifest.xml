@@ -10,8 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".activity.MainActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+            android:screenOrientation="landscape">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,12 +19,10 @@
         </activity>
 
         <activity android:name=".activity.EssentielActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+            android:screenOrientation="landscape"/>
 
         <activity android:name=".activity.EclairageActivity"
-            android:screenOrientation="landscape"
-            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"/>
+            android:screenOrientation="landscape"/>
     </application>
 
 </manifest>

@@ -25,8 +25,6 @@ public class EssentielActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_essentiel);
 
-
-
         btn_infirmiere = (Button) findViewById(R.id.btn_infirmière);
         btn_ouverture = (Button) findViewById(R.id.btn_ouverture);
         btn_temp = (Button) findViewById(R.id.btn_temperature);
