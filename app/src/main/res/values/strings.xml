@@ -8,4 +8,7 @@
     <string name="eclairage">Eclairage</string>
     <string name="ouvertures">Ouvertures</string>
     <string name="temperature">Température</string>
+    <string name="text_eclairage"><![CDATA[Vous êtes dans la pièce <<X>>. Nous modifions le status de l\'éclairage.]]></string>
+    <string name="etat_actuel">Etat actuel</string>
+    <string name="voulez_vous">Voulez Vous....</string>
 </resources>

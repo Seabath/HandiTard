@@ -23,6 +23,8 @@
 
         <activity android:name=".activity.EclairageActivity"
             android:screenOrientation="landscape"/>
+        <activity android:name=".activity.VoulezVousActivity"
+            android:screenOrientation="landscape"/>
     </application>
 
 </manifest>
