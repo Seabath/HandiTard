@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HandiTard</string>
+    <string name="mon_essentiel">Mon essentiel</string>
+    <string name="mon_entourage">Mon entourage</string>
+    <string name="mes_loisirs">Mes loisirs</string>
+    <string name="ma_sante">Ma santé</string>
+</resources>
