@@ -4,4 +4,8 @@
     <string name="mon_entourage">Mon entourage</string>
     <string name="mes_loisirs">Mes loisirs</string>
     <string name="ma_sante">Ma santé</string>
+    <string name="appel_infirmiere">Appel Infirmière</string>
+    <string name="eclairage">Eclairage</string>
+    <string name="ouvertures">Ouvertures</string>
+    <string name="temperature">Température</string>
 </resources>
